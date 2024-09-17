@@ -28,7 +28,7 @@ Now, I’ve started going through them again, bit by bit, reminiscing on what I 
 
 So yeah, here I am, sharing my journey. If I could go back and tell my younger self anything, it would be: *Dude, stop overthinking it! Just hit that publish button already!* 😜
    </details>
-<b>Note: </b>Right now, I'm on a mission to get all my old projects up on GitHub. 🚀 One by one, I'll be revisiting each piece of code, adding detailed comments to explain it line by line, and then pushing the updated versions back onto GitHub. This way, it'll be way easier for anyone checking them out to understand what's going on. 📚💻
+<b>Note: </b>Right now, I'm on a mission to get all my old projects up on GitHub. 🚀 One by one, I'll be revisiting each project, adding detailed comments to explain it line by line, and then pushing the updated versions back onto GitHub. This way, it'll be way easier for anyone checking them out to understand what's going on. 📚💻
 <h2 align="center">"About My Work 💻"</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 20px;">
 
