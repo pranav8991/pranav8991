@@ -56,5 +56,3 @@ So yeah, here I am, sharing my journey. If I could go back and tell my younger s
 ![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav8991&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
 ![Pranav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav8991&layout=compact&theme=radical&card_width=1080)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekraj099&" alt="GitHub Streak" /></p>
