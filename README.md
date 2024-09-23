@@ -52,7 +52,7 @@ So yeah, here I am, sharing my journey. If I could go back and tell my younger s
 
 ![Pranav's Streak](https://streak-stats.demolab.com?user=pranav8991&theme=radical&card_width=1080)
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav8991&show_icons=true&theme=radical&card_width=1080)
+<!-- ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav8991&show_icons=true&theme=radical&card_width=1080) -->
 
 ![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav8991&bg_color=000000&color=417e86&line=ff0000&point=948484&area=true&hide_border=true)
 
